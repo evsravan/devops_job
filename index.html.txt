@@ -1,2 +1,0 @@
-<h1>index file created</h1>
-<h2>index file created</h2>
